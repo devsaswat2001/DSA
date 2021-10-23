@@ -1,0 +1,9 @@
+							TIME COMPLEXITY
+Linear Sort	  o(n)
+Bubble sort       o(n2)
+Insertion Sort 	  o(n2)
+Selection Sort	  o(n2)
+Merge Sort	  o(nlogn)
+While Loop	  o(logn)
+
+Binary Search 	  o(logn)
