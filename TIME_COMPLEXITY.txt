@@ -1,9 +1,10 @@
-							TIME COMPLEXITY
-Linear Sort	  o(n)
-Bubble sort       o(n2)
+		TIME                 SPACE
+Linear Sort	  o(n)		
+Bubble sort       o(n2)			O(1)
 Insertion Sort 	  o(n2)
 Selection Sort	  o(n2)
-Merge Sort	  o(nlogn)
+Merge Sort	  o(nlogn)		o(n)
+Quick sort	  o(nlogn)		o(logn)
 While Loop	  o(logn)
-
+Recursion				o(n)
 Binary Search 	  o(logn)
